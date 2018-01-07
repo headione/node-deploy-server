@@ -1,3 +1,3 @@
 # Webhook deployment
 
-Pulls via git after git webooks.
+Pulls from git repository after webhook.
